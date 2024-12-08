@@ -14,19 +14,19 @@ You’ll often find me speaking these languages fluently: <br>
 **SQL** – the language of databases, also known as "how I make the data dance." 💃🕺 <br>
 **Python** – because I like my data to be pythonic and my scripts to be clean. 🐍 <br>
 
-But that’s not all! I’m also proficient in data manipulation languages and analytical expressions such as:
+But that’s not all! I’m also proficient in data manipulation languages and analytical expressions such as: <br>
 
-**M Code** – my secret sauce for Power Query transformations. 🔮
-**TurboIntegrator** – yes, it’s as fast as it sounds. ⏩
-**DAX** – because when in doubt, I just DAX it out. ⚡
-**MDX**- – for when I want to really slice through cubes like a pro. 🍰
+**M Code** – my secret sauce for Power Query transformations. 🔮 <br>
+**TurboIntegrator** – yes, it’s as fast as it sounds. ⏩ <br>
+**DAX** – because when in doubt, I just DAX it out. ⚡ <br>
+**MDX**- – for when I want to really slice through cubes like a pro. 🍰 <br>
 
-Currently Learning 📚
-I’m now diving into the wonderful world of **web development**! 🌐 It’s all about:
+Currently Learning 📚 <br>
+I’m now diving into the wonderful world of **web development**! 🌐 It’s all about: <br>
 
-**HTML** – the skeleton of the web (just don’t ask me to design it). 🏗️
-**CSS** – I’m learning how to make things look pretty (it’s a work in progress). 🎨
-**JavaScript** – because interactivity is the name of the game. ⚙️
+**HTML** – the skeleton of the web (just don’t ask me to design it). 🏗️ <br>
+**CSS** – I’m learning how to make things look pretty (it’s a work in progress). 🎨 <br>
+**JavaScript** – because interactivity is the name of the game. ⚙️ <br>
 
 I’ll be pushing my web projects here too, so stay tuned for some interesting (and maybe quirky) web pages as I learn the ropes.
 
