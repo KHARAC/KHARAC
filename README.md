@@ -1,18 +1,18 @@
-Welcome to **My Data Wonderland**! 🎉📊
-Hey there, curious human! You’ve stumbled upon my GitHub, a collection of my digital musings and creations. I’m a data analyst with a passion for turning numbers into stories, data into insights, and complex problems into solutions. If you’ve ever found yourself diving into the depths of data and emerged victorious, we’re on the same page!
+Welcome to **My Data Wonderland**! 🎉📊<br>
+Hey there, curious human! You’ve stumbled upon my GitHub, a collection of my digital musings and creations. I’m a data analyst with a passion for turning numbers into stories, data into insights, and complex problems into solutions. If you’ve ever found yourself diving into the depths of data and emerged victorious, we’re on the same page! <br>
 
-Who Am I? 🤔
-I’m a data enthusiast who loves exploring the realms of:
+Who Am I? 🤔<br>
+I’m a data enthusiast who loves exploring the realms of:<br>
 
-**IBM Planning Analytics** – because who doesn't love a good cube to slice and dice? 🧊
-**Power BI** – my go-to for creating dashboards that make people say, "Wow, this is so intuitive!" 📈
-**Azure SQL Serve**r – where my data lives and plays. It's my happy place. ☁️
+**IBM Planning Analytics** – because who doesn't love a good cube to slice and dice? 🧊<br>
+**Power BI** – my go-to for creating dashboards that make people say, "Wow, this is so intuitive!" 📈<br>
+**Azure SQL Serve**r – where my data lives and plays. It's my happy place. ☁️<br>
 
-The Code I Speak 💻
-You’ll often find me speaking these languages fluently:
+The Code I Speak 💻 <br>
+You’ll often find me speaking these languages fluently: <br>
 
-**SQL** – the language of databases, also known as "how I make the data dance." 💃🕺
-**Python** – because I like my data to be pythonic and my scripts to be clean. 🐍
+**SQL** – the language of databases, also known as "how I make the data dance." 💃🕺 <br>
+**Python** – because I like my data to be pythonic and my scripts to be clean. 🐍 <br>
 
 But that’s not all! I’m also proficient in data manipulation languages and analytical expressions such as:
 
